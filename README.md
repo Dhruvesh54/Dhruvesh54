@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvesh vora" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvesh vora?logo=twitter&style=for-the-badge" alt="dhruvesh vora" /></a> </p>
 
-- 🔭 I’m currently pursuing **DCE 👨‍💻**
+- 🔭 I’m currently pursuing **CE 👨‍💻**
 
 - 🌱 I’m currently learning **python,java,js,php**
 

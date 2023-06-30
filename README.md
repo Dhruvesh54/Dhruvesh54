@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **CE 👨‍💻**
 
-- 🌱 I’m currently learning **python,java,js,php**
+- 🌱 I’m currently learning **js,laravel,android,computer graphics**
 
 - 📫 How to reach me **dhruveshvora54@gmail.com**
 

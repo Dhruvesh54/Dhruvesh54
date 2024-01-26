@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently pursuing **CE 👨‍💻**
 
-- 🌱 I’m currently learning **js,laravel,android,computer graphics**
+- 🌱 I’m currently learning **BlockChain**
 
 - 📫 How to reach me **dhruveshvora54@gmail.com**
 

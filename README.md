@@ -21,7 +21,7 @@
 <a href="https://instagram.com/mr.dhruvesh__54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.dhruvesh__54" height="30" width="40" /></a>
   <a href="https://dribbble.com/Dhruvesh54" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harpalsinh sindhav" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Experience in working with:</h3>
 <p align="left"> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
